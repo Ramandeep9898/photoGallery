@@ -1,0 +1,8 @@
+.card-container {
+  width: 450px;
+  display: flex;
+}
+.Card-img {
+  width: auto;
+  object-fit: cover;
+}
